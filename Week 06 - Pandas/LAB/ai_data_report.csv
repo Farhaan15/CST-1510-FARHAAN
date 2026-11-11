@@ -1,0 +1,6 @@
+dataset,rows_loaded,rows_expected,percent,status
+survey_2026,1187,1200,98.91666666666666,WARNING
+census_data,5400,5000,108.0,OVER LIMIT
+sales_log,890,1000,89.0,OK
+iot_sensor,950,1000,95.0,WARNING
+model_metrics,450,500,90.0,WARNING

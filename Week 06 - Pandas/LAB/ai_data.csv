@@ -1,0 +1,6 @@
+dataset,rows_loaded,rows_expected
+survey_2026,1187,1200
+census_data,5400,5000
+sales_log,890,1000
+iot_sensor,950,1000
+model_metrics,450,500
